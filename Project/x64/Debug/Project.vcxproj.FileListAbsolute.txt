@@ -1,0 +1,2 @@
+C:\Users\Shanks\Documents\C++ Files\Visual Studio 2019\Project\x64\Debug\Project.exe
+C:\Users\Shanks\Documents\C++ Files\Visual Studio 2019\Project\x64\Debug\Project.pdb
